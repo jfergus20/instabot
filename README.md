@@ -1,4 +1,2 @@
 # instabot
-# Uses Seleniunm to log into instagram on a user's account.
-# Navigates to their profile page
-# Compares Followers to Following and returns a list of people you follow who do not follow you back
+## Using Seleniunm, the bot calculates stats that instagram does not display.  These include accounts you follow who do not follow you back and accounts who follow you but you do not follow back.  The bot is based off of one described in a YouTube tutorial by Aaron Jack
